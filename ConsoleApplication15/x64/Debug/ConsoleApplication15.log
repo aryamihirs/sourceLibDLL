@@ -1,0 +1,23 @@
+﻿  Source.cpp
+d:\3-2\gsoc'17\drawonimg\consoleapplication15\source.cpp(8): warning C4101: 'i': unreferenced local variable
+d:\3-2\gsoc'17\cimg-2.0.0_pre030217\cimg.h(16789): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+  d:\3-2\gsoc'17\cimg-2.0.0_pre030217\cimg.h(15357): note: while compiling class template member function 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )'
+  d:\3-2\gsoc'17\cimg-2.0.0_pre030217\cimg.h(15236): note: see reference to function template instantiation 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )' being compiled
+  d:\3-2\gsoc'17\cimg-2.0.0_pre030217\cimg.h(24048): note: see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+  d:\3-2\gsoc'17\cimg-2.0.0_pre030217\cimg.h(24037): note: while compiling class template member function 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const'
+          with
+          [
+              T=float
+          ]
+  d:\3-2\gsoc'17\cimg-2.0.0_pre030217\cimg.h(24032): note: see reference to function template instantiation 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const' being compiled
+          with
+          [
+              T=float
+          ]
+  d:\3-2\gsoc'17\cimg-2.0.0_pre030217\cimg.h(36185): note: see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+  d:\3-2\gsoc'17\cimg-2.0.0_pre030217\cimg.h(58950): note: see reference to class template instantiation 'cimg_library::CImg<wchar_t>' being compiled
+d:\3-2\gsoc'17\cimg-2.0.0_pre030217\cimg.h(19920): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+  d:\3-2\gsoc'17\cimg-2.0.0_pre030217\cimg.h(19918): note: while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+  d:\3-2\gsoc'17\cimg-2.0.0_pre030217\cimg.h(16788): note: see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
+     Creating library D:\3-2\gsoc'17\DrawOnImg\x64\Debug\ConsoleApplication15.lib and object D:\3-2\gsoc'17\DrawOnImg\x64\Debug\ConsoleApplication15.exp
+  ConsoleApplication15.vcxproj -> D:\3-2\gsoc'17\DrawOnImg\x64\Debug\ConsoleApplication15.dll
